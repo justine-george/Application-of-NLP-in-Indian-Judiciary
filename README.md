@@ -1,29 +1,10 @@
-# NLP
-In the Indian Judicial System, when a new case
-comes, it will be helpful for judges, advocates and other people in
-the system if they get information about the previous similar cases
-handled. Because of the large number of courts and judgments
-produced throughout the country, data to be handled is very
-large and it is difficult to analyze it manually. So, people have
-started thinking about the applications of Machine Learning in
-Judiciary, which is a tool that can be used to analyze such a
-huge amount of data and help to reduce the complexity of the
-issue. Such developments are helping lawyers in Canada and the
-legal system there is getting transformed. Adoption of such a
-system in India will ease the functioning of the Judiciary. In this
-project, the possibility of using Machine Learning capabilities
-in Indian judicial system is investigated.It is envisaged to design
-an interfacing facility through which a user can get necessary
-information after entering the data related to the current case.
-The data will be processed in the background using Machine
-Learning. Requirement of hardware with high computational
-capability will also be investigated to implement this. This system
-will also be helpful in the centralization of criminal database and
-solving the issue of clogging of cases.
+# Description
 
-Code Base Invloves
-1.A classifier 
-2.Topic Modelling
-3.Nueral Machine Traslation(malayalm to english)
-4.python based GUI
-5.Web Crawler
+The Indian Judicial System handles a large volume of cases and judgments, making it difficult to manually analyze and understand the legal precedent for new cases. In order to address this challenge, the possibility of using machine learning in the Indian judicial system is being explored. This project aims to develop an interface that allows users to input data related to a current case and receive possible judgement using machine learning. In addition to aiding in the analysis of legal cases, this system has the potential to centralize criminal databases and address the issue of congested caseloads.  
+
+The code base for this project includes:
+1. A classifier  
+2. Topic Modeling  
+3. Neural Machine Traslation (Malayalam to English)  
+4. A Python-based GUI  
+5. Web Crawler  
