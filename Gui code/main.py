@@ -64,7 +64,6 @@ law_dict =    {
   
 }
 
-
 # Create both screens. Please note the root.manager.current: this is how
 # you can control the ScreenManager from kv. Each screen has by default a
 # property manager that gives you the instance of the ScreenManager used.
