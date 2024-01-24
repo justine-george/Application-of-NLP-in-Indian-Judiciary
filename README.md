@@ -1,4 +1,4 @@
-# ML-Enhanced Legal Analysis Tool for Indian Judiciary with NLP and Bilingual Translation
+# Indian Judiciary ML Tool for NLP-Driven Case Analysis and Bilingual Translation
 
 The Indian Judicial System handles a large volume of cases and judgments, making it difficult to manually analyze and understand the legal precedent for new cases. In order to address this challenge, the possibility of using machine learning in the Indian judicial system is being explored. This project aims to develop an interface that allows users to input data related to a current case and receive possible judgement using machine learning. In addition to aiding in the analysis of legal cases, this system has the potential to centralize criminal databases and address the issue of congested caseloads.  
 
